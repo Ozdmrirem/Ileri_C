@@ -1,0 +1,10 @@
+C:\Users\irem\source\repos\Ders 1 Connection String Class\Ders 1 Connection String Class\bin\Debug\Ders 1 Connection String Class.exe.config
+C:\Users\irem\source\repos\Ders 1 Connection String Class\Ders 1 Connection String Class\bin\Debug\Ders 1 Connection String Class.exe
+C:\Users\irem\source\repos\Ders 1 Connection String Class\Ders 1 Connection String Class\bin\Debug\Ders 1 Connection String Class.pdb
+C:\Users\irem\source\repos\Ders 1 Connection String Class\Ders 1 Connection String Class\obj\Debug\Ders 1 Connection String Class.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\Ders 1 Connection String Class\Ders 1 Connection String Class\obj\Debug\Ders_1_Connection_String_Class.Form1.resources
+C:\Users\irem\source\repos\Ders 1 Connection String Class\Ders 1 Connection String Class\obj\Debug\Ders_1_Connection_String_Class.Properties.Resources.resources
+C:\Users\irem\source\repos\Ders 1 Connection String Class\Ders 1 Connection String Class\obj\Debug\Ders 1 Connection String Class.csproj.GenerateResource.cache
+C:\Users\irem\source\repos\Ders 1 Connection String Class\Ders 1 Connection String Class\obj\Debug\Ders 1 Connection String Class.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\Ders 1 Connection String Class\Ders 1 Connection String Class\obj\Debug\Ders 1 Connection String Class.exe
+C:\Users\irem\source\repos\Ders 1 Connection String Class\Ders 1 Connection String Class\obj\Debug\Ders 1 Connection String Class.pdb
