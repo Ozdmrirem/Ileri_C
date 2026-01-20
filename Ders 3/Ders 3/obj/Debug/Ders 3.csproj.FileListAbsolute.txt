@@ -1,0 +1,10 @@
+C:\Users\irem\source\repos\Ders 3\Ders 3\bin\Debug\Ders 3.exe.config
+C:\Users\irem\source\repos\Ders 3\Ders 3\bin\Debug\Ders 3.exe
+C:\Users\irem\source\repos\Ders 3\Ders 3\bin\Debug\Ders 3.pdb
+C:\Users\irem\source\repos\Ders 3\Ders 3\obj\Debug\Ders 3.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\Ders 3\Ders 3\obj\Debug\Ders_3.Form1.resources
+C:\Users\irem\source\repos\Ders 3\Ders 3\obj\Debug\Ders_3.Properties.Resources.resources
+C:\Users\irem\source\repos\Ders 3\Ders 3\obj\Debug\Ders 3.csproj.GenerateResource.cache
+C:\Users\irem\source\repos\Ders 3\Ders 3\obj\Debug\Ders 3.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\Ders 3\Ders 3\obj\Debug\Ders 3.exe
+C:\Users\irem\source\repos\Ders 3\Ders 3\obj\Debug\Ders 3.pdb
