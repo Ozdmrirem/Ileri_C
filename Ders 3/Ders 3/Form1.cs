@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace Ders_3
 {
@@ -15,6 +16,29 @@ namespace Ders_3
         public Form1()
         {
             InitializeComponent();
+        }
+
+        SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-HJ161GJ\SQLEXPRESS;Initial Catalog=Dbo_FilmArsiv;Integrated Security=True");
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string s1, s2, v1, v2;
+            s1 = textBox2.Text;
+            s2 = textBox3.Text;
+            v1 = textBox4.Text;
+            v2 = textBox5.Text;
+
+            try
+            {
+                baglanti.Open();
+                SqlCommand komut = new SqlCommand("Create Table " + textBox1.Text + " ( "+s1 + " " + v1 + " " + s2 + " " + v2 + ")", baglanti);
+                komut.ExecuteNonQuery();
+                baglanti.Close();
+                MessageBox.Show("Tablo Oluşturuldu");
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Hata Oluştu");
+            }
         }
     }
 }
