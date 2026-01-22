@@ -1,0 +1,10 @@
+C:\Users\irem\source\repos\Ders 7\Ders 7\bin\Debug\Ders 7.exe.config
+C:\Users\irem\source\repos\Ders 7\Ders 7\bin\Debug\Ders 7.exe
+C:\Users\irem\source\repos\Ders 7\Ders 7\bin\Debug\Ders 7.pdb
+C:\Users\irem\source\repos\Ders 7\Ders 7\obj\Debug\Ders 7.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\Ders 7\Ders 7\obj\Debug\Ders_7.Form1.resources
+C:\Users\irem\source\repos\Ders 7\Ders 7\obj\Debug\Ders_7.Properties.Resources.resources
+C:\Users\irem\source\repos\Ders 7\Ders 7\obj\Debug\Ders 7.csproj.GenerateResource.cache
+C:\Users\irem\source\repos\Ders 7\Ders 7\obj\Debug\Ders 7.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\Ders 7\Ders 7\obj\Debug\Ders 7.exe
+C:\Users\irem\source\repos\Ders 7\Ders 7\obj\Debug\Ders 7.pdb
