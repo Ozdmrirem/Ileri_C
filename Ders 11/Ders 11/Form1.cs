@@ -19,7 +19,21 @@ namespace Ders_11
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Arabalar rb = new Arabalar();
+            Cars rb = new Cars();
+            rb.renk = "Mavi";
+            rb.fiyat = 200.000;
+            rb.durum='s';
+            rb.model = 2020;
+            rb.hiz = 220;
+
+            label1.Text=rb.renk;
+            label2.Text=rb.fiyat.ToString();
+            label3.Text=rb.durum.ToString();
+            label4.Text=rb.model.ToString();
+            label5.Text=rb.hiz.ToString();
+            
+            this.BackColor=Color.CadetBlue;
+
         }
     }
 }

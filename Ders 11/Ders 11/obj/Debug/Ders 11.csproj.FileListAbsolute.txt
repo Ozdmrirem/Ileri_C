@@ -1,0 +1,11 @@
+C:\Users\irem\source\repos\Ders 11\Ders 11\bin\Debug\Ders 11.exe.config
+C:\Users\irem\source\repos\Ders 11\Ders 11\bin\Debug\Ders 11.exe
+C:\Users\irem\source\repos\Ders 11\Ders 11\bin\Debug\Ders 11.pdb
+C:\Users\irem\source\repos\Ders 11\Ders 11\obj\Debug\Ders 11.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\Ders 11\Ders 11\obj\Debug\Ders_11.Form1.resources
+C:\Users\irem\source\repos\Ders 11\Ders 11\obj\Debug\Ders_11.Properties.Resources.resources
+C:\Users\irem\source\repos\Ders 11\Ders 11\obj\Debug\Ders 11.csproj.GenerateResource.cache
+C:\Users\irem\source\repos\Ders 11\Ders 11\obj\Debug\Ders 11.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\Ders 11\Ders 11\obj\Debug\Ders 11.exe
+C:\Users\irem\source\repos\Ders 11\Ders 11\obj\Debug\Ders 11.pdb
+C:\Users\irem\source\repos\Ders 11\Ders 11\obj\Debug\Ders_11.Form2.resources

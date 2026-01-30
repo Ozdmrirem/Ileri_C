@@ -8,10 +8,10 @@ namespace Ders_11
 {
     internal class Cars
     {
-        string renk;
-        string fiyat;
-        int hiz;
-        char durum;
-        int model;
+        public string renk;
+        public double fiyat;
+        public int hiz;
+        public char durum;
+        public int model;
     }
 }
